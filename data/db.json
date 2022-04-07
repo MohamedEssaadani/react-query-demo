@@ -1,0 +1,22 @@
+{
+  "people": [
+    {
+      "name": "Es-saadani Mohamed",
+      "age": 24,
+      "email": "essaadani@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Bentouil Adam",
+      "age": 20,
+      "email": "adam@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Es-saadani Hicham",
+      "age": 34,
+      "email": "hicham@gmail.com",
+      "id": 3
+    }
+  ]
+}
